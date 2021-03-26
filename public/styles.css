@@ -1,0 +1,21 @@
+h1 {
+    background-color: pink;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+.column .box {
+    background-color: lightyellow;
+}
+
+.box h3 {
+    background-color: transparent;
+    text-align: center;
+}
+
+.box .table thead {
+    background-color: pink;
+}
